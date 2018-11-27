@@ -1,9 +1,13 @@
 # Changelog
 
+- Remove - support for ember < 2.12 (configure ember try)
+
 ## 1.2.0
 
 - Use the "app" argument if available
 - Bump bootstrap version to fix security vulnerability
+
+=======
 
 ## 1.1.1
 
